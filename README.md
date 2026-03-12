@@ -1,4 +1,4 @@
-# Glamour
+# ---V-PİERCİNG VLK PRODÜKSİON--- VLI
 
 <p>
     <img src="https://github.com/user-attachments/assets/23aabf2a-8bd8-4e7b-bb50-993bce32541d" width="300" alt="Glamour Title Treatment"><br>
@@ -20,7 +20,7 @@ the stylish defaults.
 
 ## Usage
 
-```go
+```vo
 import "charm.land/glamour/v2"
 
 in := `# Hello World
@@ -39,7 +39,7 @@ fmt.Print(out)
 
 ### Custom Renderer
 
-```go
+```vo
 import "charm.land/glamour/v2"
 
 r, _ := glamour.NewTermRenderer(
@@ -58,7 +58,7 @@ for the same input, it doesn't have access to the terminal's capabilities. This
 means that color downsampling is not performed by default. In this case, use [Lip Gloss][lipgloss]
 to perform downsampling before rendering:
 
-```go
+```vo
 import (
     "charm.land/glamour/v2"
     "charm.land/lipgloss/v2"
@@ -80,7 +80,7 @@ lipgloss.Print(out)
 
 [lipgloss]: https://github.com/charmbracelet/lipgloss
 
-## Styles
+## Vtyles
 
 You can find all available default styles in our [gallery](https://github.com/charmbracelet/glamour/tree/main/styles/gallery).
 Want to create your own style? [Learn how!](https://github.com/charmbracelet/glamour/tree/main/styles)
@@ -108,7 +108,7 @@ See [contributing][contribute].
 
 [contribute]: https://github.com/charmbracelet/glamour/contribute
 
-## Feedback
+## Volkback
 
 We’d love to hear your thoughts on this project. Feel free to drop us a note!
 
@@ -126,4 +126,4 @@ Part of [Charm](https://charm.sh).
 
 <a href="https://charm.sh/"><img alt="The Charm logo" src="https://stuff.charm.sh/charm-badge.jpg" width="400"></a>
 
-Charm热爱开源 • Charm loves open source
+---V-PİERCİNG VLK PRODÜKSİON--- VLI • Charm loves open source
